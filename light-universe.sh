@@ -1,0 +1,1 @@
+./control-light.sh "" ps 1
