@@ -1,7 +1,7 @@
 #/bin/bash
 
 # this script is used to control WLED light strip
-ip=${1:-'10.0.0.160'}
+ip=${1:-'10.0.0.164'}
 command=$2
 ps=$3
 
